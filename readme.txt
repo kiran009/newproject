@@ -1,1 +1,1 @@
-Added readme.txt
+Modified readme.txt
