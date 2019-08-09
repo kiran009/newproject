@@ -1,2 +1,4 @@
 A new file called 'E'
 Changes to e.txt in 'test' branch
+A new file called 'E'
+Changes to e.txt in 'test' branch
